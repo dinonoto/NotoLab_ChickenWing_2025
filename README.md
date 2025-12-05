@@ -11,4 +11,5 @@ Repository for segmentation of a specimen scan.  See [this JSON file](MorphoDepo
 ## Screenshots
 
 ![Chicken forelimb specimen with included segmentation of skeletatal elements.](screenshots/screenshot-1.png)
-_Chicken forelimb specimen with included segmentation of skeletatal elements._
+_Chicken forelimb specimen with included segmentation of skeletal elements._
+
